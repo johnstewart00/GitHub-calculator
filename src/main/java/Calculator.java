@@ -1,4 +1,4 @@
-// comment to allow workflow to triggers again
+// comment
 class Calculator {
 
     Calculator(){
